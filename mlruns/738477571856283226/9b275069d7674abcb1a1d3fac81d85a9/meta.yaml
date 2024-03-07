@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/738477571856283226/9b275069d7674abcb1a1d3fac81d85a9/artifacts
+end_time: 1709560852898
+entry_point_name: ''
+experiment_id: '738477571856283226'
+lifecycle_stage: active
+run_id: 9b275069d7674abcb1a1d3fac81d85a9
+run_name: merciful-shrimp-694
+run_uuid: 9b275069d7674abcb1a1d3fac81d85a9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709560849894
+status: 3
+tags: []
+user_id: pablo

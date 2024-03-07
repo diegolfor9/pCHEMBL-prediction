@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/304028171842350452/29dd4f7daea5434d85832d86294bb7ba/artifacts
+end_time: 1708965508801
+entry_point_name: ''
+experiment_id: '304028171842350452'
+lifecycle_stage: active
+run_id: 29dd4f7daea5434d85832d86294bb7ba
+run_name: enchanting-panda-528
+run_uuid: 29dd4f7daea5434d85832d86294bb7ba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708965503364
+status: 3
+tags: []
+user_id: pablo

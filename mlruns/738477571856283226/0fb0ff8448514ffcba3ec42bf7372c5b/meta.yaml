@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/738477571856283226/0fb0ff8448514ffcba3ec42bf7372c5b/artifacts
+end_time: 1708955945450
+entry_point_name: ''
+experiment_id: '738477571856283226'
+lifecycle_stage: active
+run_id: 0fb0ff8448514ffcba3ec42bf7372c5b
+run_name: adventurous-hog-809
+run_uuid: 0fb0ff8448514ffcba3ec42bf7372c5b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708955943785
+status: 3
+tags: []
+user_id: pablo

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/738477571856283226/1da5f4d5ae0e4d7388bc2ca7a318c911/artifacts
+end_time: 1708955911445
+entry_point_name: ''
+experiment_id: '738477571856283226'
+lifecycle_stage: active
+run_id: 1da5f4d5ae0e4d7388bc2ca7a318c911
+run_name: omniscient-newt-387
+run_uuid: 1da5f4d5ae0e4d7388bc2ca7a318c911
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708955910026
+status: 3
+tags: []
+user_id: pablo

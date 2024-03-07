@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/198924183686899260/6a45454324f74050806ff3966ef010ab/artifacts
+deleted_time: 1709232080224
+end_time: 1708957936862
+entry_point_name: ''
+experiment_id: '198924183686899260'
+lifecycle_stage: deleted
+run_id: 6a45454324f74050806ff3966ef010ab
+run_name: youthful-squid-676
+run_uuid: 6a45454324f74050806ff3966ef010ab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708957866868
+status: 3
+tags: []
+user_id: pablo

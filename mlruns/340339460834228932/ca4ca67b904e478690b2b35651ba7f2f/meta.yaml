@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/340339460834228932/ca4ca67b904e478690b2b35651ba7f2f/artifacts
+end_time: 1708963383563
+entry_point_name: ''
+experiment_id: '340339460834228932'
+lifecycle_stage: active
+run_id: ca4ca67b904e478690b2b35651ba7f2f
+run_name: skittish-wasp-422
+run_uuid: ca4ca67b904e478690b2b35651ba7f2f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708963333049
+status: 3
+tags: []
+user_id: pablo

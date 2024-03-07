@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/738477571856283226/7f810892a2b9438ca9ac592f65cb29da/artifacts
+end_time: 1709560700698
+entry_point_name: ''
+experiment_id: '738477571856283226'
+lifecycle_stage: active
+run_id: 7f810892a2b9438ca9ac592f65cb29da
+run_name: upset-crow-912
+run_uuid: 7f810892a2b9438ca9ac592f65cb29da
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709560699254
+status: 3
+tags: []
+user_id: pablo

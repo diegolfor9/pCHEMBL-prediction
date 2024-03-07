@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/738477571856283226/610cfb8e2b10427fb6cc386726551718/artifacts
+end_time: 1708955675440
+entry_point_name: ''
+experiment_id: '738477571856283226'
+lifecycle_stage: active
+run_id: 610cfb8e2b10427fb6cc386726551718
+run_name: zealous-lynx-704
+run_uuid: 610cfb8e2b10427fb6cc386726551718
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708955674824
+status: 3
+tags: []
+user_id: pablo

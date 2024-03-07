@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/304028171842350452/fda2c19a88844f1192d49805d23579ce/artifacts
+end_time: 1708966504594
+entry_point_name: ''
+experiment_id: '304028171842350452'
+lifecycle_stage: active
+run_id: fda2c19a88844f1192d49805d23579ce
+run_name: wistful-goose-969
+run_uuid: fda2c19a88844f1192d49805d23579ce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708966402908
+status: 3
+tags: []
+user_id: pablo

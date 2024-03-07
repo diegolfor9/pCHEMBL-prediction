@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/738477571856283226/93370ae983504cf19ae0965be73e097e/artifacts
+end_time: 1709560672996
+entry_point_name: ''
+experiment_id: '738477571856283226'
+lifecycle_stage: active
+run_id: 93370ae983504cf19ae0965be73e097e
+run_name: unequaled-hawk-90
+run_uuid: 93370ae983504cf19ae0965be73e097e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709560671170
+status: 3
+tags: []
+user_id: pablo

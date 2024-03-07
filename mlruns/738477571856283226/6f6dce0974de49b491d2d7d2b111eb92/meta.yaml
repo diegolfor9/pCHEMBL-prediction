@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/738477571856283226/6f6dce0974de49b491d2d7d2b111eb92/artifacts
+end_time: 1708955934506
+entry_point_name: ''
+experiment_id: '738477571856283226'
+lifecycle_stage: active
+run_id: 6f6dce0974de49b491d2d7d2b111eb92
+run_name: funny-cub-460
+run_uuid: 6f6dce0974de49b491d2d7d2b111eb92
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708955931685
+status: 3
+tags: []
+user_id: pablo

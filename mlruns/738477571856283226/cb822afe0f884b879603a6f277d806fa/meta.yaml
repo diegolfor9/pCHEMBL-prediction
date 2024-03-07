@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/738477571856283226/cb822afe0f884b879603a6f277d806fa/artifacts
+end_time: 1708955806328
+entry_point_name: ''
+experiment_id: '738477571856283226'
+lifecycle_stage: active
+run_id: cb822afe0f884b879603a6f277d806fa
+run_name: painted-rook-422
+run_uuid: cb822afe0f884b879603a6f277d806fa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708955805060
+status: 3
+tags: []
+user_id: pablo

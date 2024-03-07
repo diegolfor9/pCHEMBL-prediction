@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/738477571856283226/0befe94e5b5048e09f93f37bb366a8a3/artifacts
+end_time: 1708955931557
+entry_point_name: ''
+experiment_id: '738477571856283226'
+lifecycle_stage: active
+run_id: 0befe94e5b5048e09f93f37bb366a8a3
+run_name: luxuriant-steed-652
+run_uuid: 0befe94e5b5048e09f93f37bb366a8a3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708955929626
+status: 3
+tags: []
+user_id: pablo

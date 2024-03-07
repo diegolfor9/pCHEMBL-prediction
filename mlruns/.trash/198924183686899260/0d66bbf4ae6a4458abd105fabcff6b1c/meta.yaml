@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/198924183686899260/0d66bbf4ae6a4458abd105fabcff6b1c/artifacts
+deleted_time: 1709232080224
+end_time: 1708959552774
+entry_point_name: ''
+experiment_id: '198924183686899260'
+lifecycle_stage: deleted
+run_id: 0d66bbf4ae6a4458abd105fabcff6b1c
+run_name: thundering-hare-550
+run_uuid: 0d66bbf4ae6a4458abd105fabcff6b1c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708959420657
+status: 3
+tags: []
+user_id: pablo

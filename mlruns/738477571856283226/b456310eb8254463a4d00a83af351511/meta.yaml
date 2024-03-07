@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/738477571856283226/b456310eb8254463a4d00a83af351511/artifacts
+end_time: 1708955889874
+entry_point_name: ''
+experiment_id: '738477571856283226'
+lifecycle_stage: active
+run_id: b456310eb8254463a4d00a83af351511
+run_name: luxuriant-snail-11
+run_uuid: b456310eb8254463a4d00a83af351511
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708955888348
+status: 3
+tags: []
+user_id: pablo

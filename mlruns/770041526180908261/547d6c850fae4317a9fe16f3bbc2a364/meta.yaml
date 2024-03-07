@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/770041526180908261/547d6c850fae4317a9fe16f3bbc2a364/artifacts
+end_time: 1708341055412
+entry_point_name: ''
+experiment_id: '770041526180908261'
+lifecycle_stage: active
+run_id: 547d6c850fae4317a9fe16f3bbc2a364
+run_name: agreeable-cat-431
+run_uuid: 547d6c850fae4317a9fe16f3bbc2a364
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708340895890
+status: 3
+tags: []
+user_id: pablo

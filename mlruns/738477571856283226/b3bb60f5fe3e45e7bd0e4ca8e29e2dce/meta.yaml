@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/738477571856283226/b3bb60f5fe3e45e7bd0e4ca8e29e2dce/artifacts
+end_time: 1709560715828
+entry_point_name: ''
+experiment_id: '738477571856283226'
+lifecycle_stage: active
+run_id: b3bb60f5fe3e45e7bd0e4ca8e29e2dce
+run_name: skittish-midge-390
+run_uuid: b3bb60f5fe3e45e7bd0e4ca8e29e2dce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709560710582
+status: 3
+tags: []
+user_id: pablo

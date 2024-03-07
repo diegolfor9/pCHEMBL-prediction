@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/304028171842350452/336cd5e4378540bdbc6f936facb606d6/artifacts
+end_time: 1708966402662
+entry_point_name: ''
+experiment_id: '304028171842350452'
+lifecycle_stage: active
+run_id: 336cd5e4378540bdbc6f936facb606d6
+run_name: mercurial-robin-350
+run_uuid: 336cd5e4378540bdbc6f936facb606d6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708966244681
+status: 3
+tags: []
+user_id: pablo

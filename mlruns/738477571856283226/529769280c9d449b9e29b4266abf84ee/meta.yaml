@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/738477571856283226/529769280c9d449b9e29b4266abf84ee/artifacts
+end_time: 1709560633888
+entry_point_name: ''
+experiment_id: '738477571856283226'
+lifecycle_stage: active
+run_id: 529769280c9d449b9e29b4266abf84ee
+run_name: entertaining-wren-96
+run_uuid: 529769280c9d449b9e29b4266abf84ee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709560631884
+status: 3
+tags: []
+user_id: pablo

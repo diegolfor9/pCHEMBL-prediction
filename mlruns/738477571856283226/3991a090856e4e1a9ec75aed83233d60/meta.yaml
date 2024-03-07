@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/738477571856283226/3991a090856e4e1a9ec75aed83233d60/artifacts
+end_time: 1708955918127
+entry_point_name: ''
+experiment_id: '738477571856283226'
+lifecycle_stage: active
+run_id: 3991a090856e4e1a9ec75aed83233d60
+run_name: bustling-gnu-623
+run_uuid: 3991a090856e4e1a9ec75aed83233d60
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708955916633
+status: 3
+tags: []
+user_id: pablo

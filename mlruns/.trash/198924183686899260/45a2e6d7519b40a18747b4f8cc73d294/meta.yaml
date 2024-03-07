@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/198924183686899260/45a2e6d7519b40a18747b4f8cc73d294/artifacts
+deleted_time: 1709232080224
+end_time: 1708959420605
+entry_point_name: ''
+experiment_id: '198924183686899260'
+lifecycle_stage: deleted
+run_id: 45a2e6d7519b40a18747b4f8cc73d294
+run_name: spiffy-newt-188
+run_uuid: 45a2e6d7519b40a18747b4f8cc73d294
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708959350010
+status: 3
+tags: []
+user_id: pablo

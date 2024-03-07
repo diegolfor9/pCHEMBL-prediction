@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/738477571856283226/c29ba9807a01494eb6f227c91a103ce3/artifacts
+end_time: 1709560642787
+entry_point_name: ''
+experiment_id: '738477571856283226'
+lifecycle_stage: active
+run_id: c29ba9807a01494eb6f227c91a103ce3
+run_name: sincere-whale-4
+run_uuid: c29ba9807a01494eb6f227c91a103ce3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709560639529
+status: 3
+tags: []
+user_id: pablo

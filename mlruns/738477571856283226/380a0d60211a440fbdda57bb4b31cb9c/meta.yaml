@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/738477571856283226/380a0d60211a440fbdda57bb4b31cb9c/artifacts
+end_time: 1709560615545
+entry_point_name: ''
+experiment_id: '738477571856283226'
+lifecycle_stage: active
+run_id: 380a0d60211a440fbdda57bb4b31cb9c
+run_name: upbeat-shrimp-46
+run_uuid: 380a0d60211a440fbdda57bb4b31cb9c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709560611556
+status: 3
+tags: []
+user_id: pablo

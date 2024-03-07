@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/738477571856283226/9dadbf26fac346b5969b9d95815d89e1/artifacts
+end_time: 1709560586785
+entry_point_name: ''
+experiment_id: '738477571856283226'
+lifecycle_stage: active
+run_id: 9dadbf26fac346b5969b9d95815d89e1
+run_name: honorable-lynx-932
+run_uuid: 9dadbf26fac346b5969b9d95815d89e1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709560583878
+status: 3
+tags: []
+user_id: pablo

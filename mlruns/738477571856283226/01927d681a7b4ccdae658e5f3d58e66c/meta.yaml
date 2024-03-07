@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/738477571856283226/01927d681a7b4ccdae658e5f3d58e66c/artifacts
+end_time: 1708955807307
+entry_point_name: ''
+experiment_id: '738477571856283226'
+lifecycle_stage: active
+run_id: 01927d681a7b4ccdae658e5f3d58e66c
+run_name: shivering-shrike-70
+run_uuid: 01927d681a7b4ccdae658e5f3d58e66c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708955806387
+status: 3
+tags: []
+user_id: pablo

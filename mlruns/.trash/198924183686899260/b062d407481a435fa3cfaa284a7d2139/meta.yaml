@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/198924183686899260/b062d407481a435fa3cfaa284a7d2139/artifacts
+deleted_time: 1709232080224
+end_time: 1708961699329
+entry_point_name: ''
+experiment_id: '198924183686899260'
+lifecycle_stage: deleted
+run_id: b062d407481a435fa3cfaa284a7d2139
+run_name: aged-wren-663
+run_uuid: b062d407481a435fa3cfaa284a7d2139
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708961579323
+status: 3
+tags: []
+user_id: pablo

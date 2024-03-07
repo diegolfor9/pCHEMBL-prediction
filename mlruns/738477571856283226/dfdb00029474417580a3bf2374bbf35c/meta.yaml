@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/738477571856283226/dfdb00029474417580a3bf2374bbf35c/artifacts
+end_time: 1708955687113
+entry_point_name: ''
+experiment_id: '738477571856283226'
+lifecycle_stage: active
+run_id: dfdb00029474417580a3bf2374bbf35c
+run_name: upset-stoat-425
+run_uuid: dfdb00029474417580a3bf2374bbf35c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708955685171
+status: 3
+tags: []
+user_id: pablo

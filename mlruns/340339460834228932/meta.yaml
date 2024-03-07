@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/340339460834228932
+creation_time: 1708962920638
+experiment_id: '340339460834228932'
+last_update_time: 1708962920638
+lifecycle_stage: active
+name: Prediccion RF

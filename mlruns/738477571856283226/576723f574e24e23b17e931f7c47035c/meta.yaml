@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/738477571856283226/576723f574e24e23b17e931f7c47035c/artifacts
+end_time: 1709560784909
+entry_point_name: ''
+experiment_id: '738477571856283226'
+lifecycle_stage: active
+run_id: 576723f574e24e23b17e931f7c47035c
+run_name: blushing-squid-405
+run_uuid: 576723f574e24e23b17e931f7c47035c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709560782935
+status: 3
+tags: []
+user_id: pablo

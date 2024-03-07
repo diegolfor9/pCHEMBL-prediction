@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/738477571856283226/ad2464a4306d40249a622cdb72dc6312/artifacts
+end_time: 1709560650299
+entry_point_name: ''
+experiment_id: '738477571856283226'
+lifecycle_stage: active
+run_id: ad2464a4306d40249a622cdb72dc6312
+run_name: casual-owl-13
+run_uuid: ad2464a4306d40249a622cdb72dc6312
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709560648116
+status: 3
+tags: []
+user_id: pablo

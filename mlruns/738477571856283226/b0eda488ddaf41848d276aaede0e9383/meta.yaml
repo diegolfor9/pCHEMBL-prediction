@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/738477571856283226/b0eda488ddaf41848d276aaede0e9383/artifacts
+end_time: 1709560699039
+entry_point_name: ''
+experiment_id: '738477571856283226'
+lifecycle_stage: active
+run_id: b0eda488ddaf41848d276aaede0e9383
+run_name: nervous-bear-299
+run_uuid: b0eda488ddaf41848d276aaede0e9383
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709560697256
+status: 3
+tags: []
+user_id: pablo

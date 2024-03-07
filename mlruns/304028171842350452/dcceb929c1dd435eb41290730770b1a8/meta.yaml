@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/304028171842350452/dcceb929c1dd435eb41290730770b1a8/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '304028171842350452'
+lifecycle_stage: active
+run_id: dcceb929c1dd435eb41290730770b1a8
+run_name: gaudy-grub-861
+run_uuid: dcceb929c1dd435eb41290730770b1a8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708966903103
+status: 1
+tags: []
+user_id: pablo

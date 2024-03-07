@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/738477571856283226/c6f8e191e5274439bf61c6edd3020fe3/artifacts
+end_time: 1708955825684
+entry_point_name: ''
+experiment_id: '738477571856283226'
+lifecycle_stage: active
+run_id: c6f8e191e5274439bf61c6edd3020fe3
+run_name: crawling-perch-622
+run_uuid: c6f8e191e5274439bf61c6edd3020fe3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708955824329
+status: 3
+tags: []
+user_id: pablo

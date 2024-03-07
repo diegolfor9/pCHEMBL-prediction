@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/198924183686899260/9bb2b04b86854d5f8bfffa93569724ae/artifacts
+deleted_time: 1709232080224
+end_time: 1708957290274
+entry_point_name: ''
+experiment_id: '198924183686899260'
+lifecycle_stage: deleted
+run_id: 9bb2b04b86854d5f8bfffa93569724ae
+run_name: gregarious-donkey-10
+run_uuid: 9bb2b04b86854d5f8bfffa93569724ae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708957085875
+status: 3
+tags: []
+user_id: pablo

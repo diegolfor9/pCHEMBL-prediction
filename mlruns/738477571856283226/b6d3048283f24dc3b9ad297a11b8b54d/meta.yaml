@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/738477571856283226/b6d3048283f24dc3b9ad297a11b8b54d/artifacts
+end_time: 1709560710342
+entry_point_name: ''
+experiment_id: '738477571856283226'
+lifecycle_stage: active
+run_id: b6d3048283f24dc3b9ad297a11b8b54d
+run_name: brawny-vole-580
+run_uuid: b6d3048283f24dc3b9ad297a11b8b54d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709560706868
+status: 3
+tags: []
+user_id: pablo

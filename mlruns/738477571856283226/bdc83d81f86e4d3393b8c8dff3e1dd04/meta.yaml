@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/738477571856283226/bdc83d81f86e4d3393b8c8dff3e1dd04/artifacts
+end_time: 1708955848968
+entry_point_name: ''
+experiment_id: '738477571856283226'
+lifecycle_stage: active
+run_id: bdc83d81f86e4d3393b8c8dff3e1dd04
+run_name: invincible-crow-272
+run_uuid: bdc83d81f86e4d3393b8c8dff3e1dd04
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708955847203
+status: 3
+tags: []
+user_id: pablo

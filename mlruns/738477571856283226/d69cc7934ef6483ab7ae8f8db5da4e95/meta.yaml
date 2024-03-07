@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/738477571856283226/d69cc7934ef6483ab7ae8f8db5da4e95/artifacts
+end_time: 1709560766391
+entry_point_name: ''
+experiment_id: '738477571856283226'
+lifecycle_stage: active
+run_id: d69cc7934ef6483ab7ae8f8db5da4e95
+run_name: sincere-pig-420
+run_uuid: d69cc7934ef6483ab7ae8f8db5da4e95
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709560762956
+status: 3
+tags: []
+user_id: pablo

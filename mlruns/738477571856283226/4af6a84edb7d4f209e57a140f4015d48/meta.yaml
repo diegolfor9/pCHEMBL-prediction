@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/738477571856283226/4af6a84edb7d4f209e57a140f4015d48/artifacts
+end_time: 1708955881214
+entry_point_name: ''
+experiment_id: '738477571856283226'
+lifecycle_stage: active
+run_id: 4af6a84edb7d4f209e57a140f4015d48
+run_name: sincere-squirrel-770
+run_uuid: 4af6a84edb7d4f209e57a140f4015d48
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708955879701
+status: 3
+tags: []
+user_id: pablo

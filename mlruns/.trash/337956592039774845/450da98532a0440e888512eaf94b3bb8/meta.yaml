@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/337956592039774845/450da98532a0440e888512eaf94b3bb8/artifacts
+deleted_time: 1709231233641
+end_time: 1709231223693
+entry_point_name: ''
+experiment_id: '337956592039774845'
+lifecycle_stage: deleted
+run_id: 450da98532a0440e888512eaf94b3bb8
+run_name: silent-whale-569
+run_uuid: 450da98532a0440e888512eaf94b3bb8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709231215994
+status: 3
+tags: []
+user_id: pablo

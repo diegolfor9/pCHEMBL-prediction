@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/738477571856283226/67da78accfd943c1b5ee0f45c797bf5b/artifacts
+end_time: 1709560758404
+entry_point_name: ''
+experiment_id: '738477571856283226'
+lifecycle_stage: active
+run_id: 67da78accfd943c1b5ee0f45c797bf5b
+run_name: gaudy-lynx-767
+run_uuid: 67da78accfd943c1b5ee0f45c797bf5b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709560750043
+status: 3
+tags: []
+user_id: pablo

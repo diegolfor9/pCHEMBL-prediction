@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/770041526180908261/085c3fdd813e445cb8795af9bec794ca/artifacts
+end_time: 1708341872853
+entry_point_name: ''
+experiment_id: '770041526180908261'
+lifecycle_stage: active
+run_id: 085c3fdd813e445cb8795af9bec794ca
+run_name: secretive-pig-885
+run_uuid: 085c3fdd813e445cb8795af9bec794ca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708341689232
+status: 3
+tags: []
+user_id: pablo

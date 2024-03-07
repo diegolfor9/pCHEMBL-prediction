@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/304028171842350452/b9997decdc504de9b48d476f2f995369/artifacts
+end_time: 1708965002567
+entry_point_name: ''
+experiment_id: '304028171842350452'
+lifecycle_stage: active
+run_id: b9997decdc504de9b48d476f2f995369
+run_name: tasteful-ray-613
+run_uuid: b9997decdc504de9b48d476f2f995369
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708964851151
+status: 3
+tags: []
+user_id: pablo

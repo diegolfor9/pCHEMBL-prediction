@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/738477571856283226/5f065de571bf42ff91888ff59cc94acd/artifacts
+end_time: 1709560879137
+entry_point_name: ''
+experiment_id: '738477571856283226'
+lifecycle_stage: active
+run_id: 5f065de571bf42ff91888ff59cc94acd
+run_name: welcoming-cub-207
+run_uuid: 5f065de571bf42ff91888ff59cc94acd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709560877092
+status: 3
+tags: []
+user_id: pablo

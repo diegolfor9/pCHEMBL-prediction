@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/738477571856283226/13a5c783245342879b876203b7832322/artifacts
+end_time: 1708955888284
+entry_point_name: ''
+experiment_id: '738477571856283226'
+lifecycle_stage: active
+run_id: 13a5c783245342879b876203b7832322
+run_name: shivering-cub-279
+run_uuid: 13a5c783245342879b876203b7832322
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708955887023
+status: 3
+tags: []
+user_id: pablo

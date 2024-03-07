@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/198924183686899260/d228f13269e142f6ab0e6575e9b2be9a/artifacts
+deleted_time: 1709232080224
+end_time: 1708957746137
+entry_point_name: ''
+experiment_id: '198924183686899260'
+lifecycle_stage: deleted
+run_id: d228f13269e142f6ab0e6575e9b2be9a
+run_name: caring-eel-545
+run_uuid: d228f13269e142f6ab0e6575e9b2be9a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708957732588
+status: 3
+tags: []
+user_id: pablo

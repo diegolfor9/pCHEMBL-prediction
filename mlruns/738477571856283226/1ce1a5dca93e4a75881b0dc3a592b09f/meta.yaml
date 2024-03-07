@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/738477571856283226/1ce1a5dca93e4a75881b0dc3a592b09f/artifacts
+end_time: 1709560821440
+entry_point_name: ''
+experiment_id: '738477571856283226'
+lifecycle_stage: active
+run_id: 1ce1a5dca93e4a75881b0dc3a592b09f
+run_name: nimble-sheep-6
+run_uuid: 1ce1a5dca93e4a75881b0dc3a592b09f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709560815668
+status: 3
+tags: []
+user_id: pablo

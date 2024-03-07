@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/340339460834228932/b9a37b502ab54077916e2d51ec734406/artifacts
+end_time: 1708962968965
+entry_point_name: ''
+experiment_id: '340339460834228932'
+lifecycle_stage: active
+run_id: b9a37b502ab54077916e2d51ec734406
+run_name: silent-bat-560
+run_uuid: b9a37b502ab54077916e2d51ec734406
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708962927254
+status: 3
+tags: []
+user_id: pablo

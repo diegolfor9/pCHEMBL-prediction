@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/340339460834228932/b5a2d18fd8f340848d14c869f9cdbea9/artifacts
+end_time: 1708963166969
+entry_point_name: ''
+experiment_id: '340339460834228932'
+lifecycle_stage: active
+run_id: b5a2d18fd8f340848d14c869f9cdbea9
+run_name: zealous-snail-846
+run_uuid: b5a2d18fd8f340848d14c869f9cdbea9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708963076392
+status: 3
+tags: []
+user_id: pablo

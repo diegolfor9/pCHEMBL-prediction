@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/738477571856283226/8072f94ab7e748da92ee1aa951bd71a9/artifacts
+end_time: 1708955894051
+entry_point_name: ''
+experiment_id: '738477571856283226'
+lifecycle_stage: active
+run_id: 8072f94ab7e748da92ee1aa951bd71a9
+run_name: agreeable-pug-781
+run_uuid: 8072f94ab7e748da92ee1aa951bd71a9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708955893091
+status: 3
+tags: []
+user_id: pablo

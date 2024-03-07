@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/770041526180908261/8fbd4cc3aee24fac95b6872623c042bc/artifacts
+end_time: 1708342929903
+entry_point_name: ''
+experiment_id: '770041526180908261'
+lifecycle_stage: active
+run_id: 8fbd4cc3aee24fac95b6872623c042bc
+run_name: skittish-lynx-856
+run_uuid: 8fbd4cc3aee24fac95b6872623c042bc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708342369717
+status: 3
+tags: []
+user_id: pablo

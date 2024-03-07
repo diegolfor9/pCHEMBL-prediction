@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/304028171842350452/86ad8e3c29f74881a4b9c8fc426c44e7/artifacts
+end_time: 1708966903048
+entry_point_name: ''
+experiment_id: '304028171842350452'
+lifecycle_stage: active
+run_id: 86ad8e3c29f74881a4b9c8fc426c44e7
+run_name: thundering-dove-806
+run_uuid: 86ad8e3c29f74881a4b9c8fc426c44e7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708966751163
+status: 3
+tags: []
+user_id: pablo

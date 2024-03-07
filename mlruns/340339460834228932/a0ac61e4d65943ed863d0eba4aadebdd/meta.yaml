@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/340339460834228932/a0ac61e4d65943ed863d0eba4aadebdd/artifacts
+end_time: 1708962974921
+entry_point_name: ''
+experiment_id: '340339460834228932'
+lifecycle_stage: active
+run_id: a0ac61e4d65943ed863d0eba4aadebdd
+run_name: upbeat-mule-84
+run_uuid: a0ac61e4d65943ed863d0eba4aadebdd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708962969003
+status: 3
+tags: []
+user_id: pablo

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/738477571856283226/ca41bdd90e3b4b21a1960f8090e02132/artifacts
+end_time: 1709560741624
+entry_point_name: ''
+experiment_id: '738477571856283226'
+lifecycle_stage: active
+run_id: ca41bdd90e3b4b21a1960f8090e02132
+run_name: dapper-dove-544
+run_uuid: ca41bdd90e3b4b21a1960f8090e02132
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709560733738
+status: 3
+tags: []
+user_id: pablo

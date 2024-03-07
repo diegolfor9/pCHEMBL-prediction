@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/738477571856283226/419defc7e2d14ed5a2766c366b26c777/artifacts
+end_time: 1709560849679
+entry_point_name: ''
+experiment_id: '738477571856283226'
+lifecycle_stage: active
+run_id: 419defc7e2d14ed5a2766c366b26c777
+run_name: clumsy-deer-179
+run_uuid: 419defc7e2d14ed5a2766c366b26c777
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709560847810
+status: 3
+tags: []
+user_id: pablo

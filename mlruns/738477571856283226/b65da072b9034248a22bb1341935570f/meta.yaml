@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/738477571856283226/b65da072b9034248a22bb1341935570f/artifacts
+end_time: 1708955850615
+entry_point_name: ''
+experiment_id: '738477571856283226'
+lifecycle_stage: active
+run_id: b65da072b9034248a22bb1341935570f
+run_name: rogue-stag-957
+run_uuid: b65da072b9034248a22bb1341935570f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708955849088
+status: 3
+tags: []
+user_id: pablo

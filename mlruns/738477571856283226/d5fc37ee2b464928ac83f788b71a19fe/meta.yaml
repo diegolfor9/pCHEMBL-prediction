@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/738477571856283226/d5fc37ee2b464928ac83f788b71a19fe/artifacts
+end_time: 1709560583653
+entry_point_name: ''
+experiment_id: '738477571856283226'
+lifecycle_stage: active
+run_id: d5fc37ee2b464928ac83f788b71a19fe
+run_name: chill-bat-224
+run_uuid: d5fc37ee2b464928ac83f788b71a19fe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709560581040
+status: 3
+tags: []
+user_id: pablo

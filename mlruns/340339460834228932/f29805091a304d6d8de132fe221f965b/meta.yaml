@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/340339460834228932/f29805091a304d6d8de132fe221f965b/artifacts
+end_time: 1708963830692
+entry_point_name: ''
+experiment_id: '340339460834228932'
+lifecycle_stage: active
+run_id: f29805091a304d6d8de132fe221f965b
+run_name: enchanting-hare-199
+run_uuid: f29805091a304d6d8de132fe221f965b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708963609585
+status: 3
+tags: []
+user_id: pablo

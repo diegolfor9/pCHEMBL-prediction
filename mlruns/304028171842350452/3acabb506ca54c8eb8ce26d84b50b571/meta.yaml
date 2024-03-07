@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/304028171842350452/3acabb506ca54c8eb8ce26d84b50b571/artifacts
+end_time: 1708965806859
+entry_point_name: ''
+experiment_id: '304028171842350452'
+lifecycle_stage: active
+run_id: 3acabb506ca54c8eb8ce26d84b50b571
+run_name: ambitious-croc-127
+run_uuid: 3acabb506ca54c8eb8ce26d84b50b571
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708965800133
+status: 3
+tags: []
+user_id: pablo

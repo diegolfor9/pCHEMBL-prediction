@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/198924183686899260/0c468861086f42fe919c732742e8c5f6/artifacts
+deleted_time: 1709232080224
+end_time: 1708959613034
+entry_point_name: ''
+experiment_id: '198924183686899260'
+lifecycle_stage: deleted
+run_id: 0c468861086f42fe919c732742e8c5f6
+run_name: bustling-tern-885
+run_uuid: 0c468861086f42fe919c732742e8c5f6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708959599300
+status: 3
+tags: []
+user_id: pablo

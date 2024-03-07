@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/738477571856283226/dab9f2456c7a4ab8a621030c56cc3a64/artifacts
+end_time: 1709560656280
+entry_point_name: ''
+experiment_id: '738477571856283226'
+lifecycle_stage: active
+run_id: dab9f2456c7a4ab8a621030c56cc3a64
+run_name: hilarious-mink-878
+run_uuid: dab9f2456c7a4ab8a621030c56cc3a64
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709560650481
+status: 3
+tags: []
+user_id: pablo

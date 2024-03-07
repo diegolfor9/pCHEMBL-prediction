@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/738477571856283226/a9d5a0eea53e44f4844eff4e58ac9d64/artifacts
+end_time: 1708955815719
+entry_point_name: ''
+experiment_id: '738477571856283226'
+lifecycle_stage: active
+run_id: a9d5a0eea53e44f4844eff4e58ac9d64
+run_name: incongruous-grub-336
+run_uuid: a9d5a0eea53e44f4844eff4e58ac9d64
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708955814077
+status: 3
+tags: []
+user_id: pablo

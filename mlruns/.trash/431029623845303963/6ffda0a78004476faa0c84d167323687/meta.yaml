@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/431029623845303963/6ffda0a78004476faa0c84d167323687/artifacts
+deleted_time: 1709312439574
+end_time: 1709312385939
+entry_point_name: ''
+experiment_id: '431029623845303963'
+lifecycle_stage: deleted
+run_id: 6ffda0a78004476faa0c84d167323687
+run_name: mercurial-donkey-552
+run_uuid: 6ffda0a78004476faa0c84d167323687
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709311865460
+status: 4
+tags: []
+user_id: pablo

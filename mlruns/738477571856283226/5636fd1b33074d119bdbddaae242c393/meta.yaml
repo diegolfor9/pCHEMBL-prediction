@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/738477571856283226/5636fd1b33074d119bdbddaae242c393/artifacts
+end_time: 1708955683764
+entry_point_name: ''
+experiment_id: '738477571856283226'
+lifecycle_stage: active
+run_id: 5636fd1b33074d119bdbddaae242c393
+run_name: bald-dolphin-870
+run_uuid: 5636fd1b33074d119bdbddaae242c393
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708955681908
+status: 3
+tags: []
+user_id: pablo

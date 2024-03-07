@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/738477571856283226/284c227caa754915813b617ca471cd87/artifacts
+end_time: 1709560691089
+entry_point_name: ''
+experiment_id: '738477571856283226'
+lifecycle_stage: active
+run_id: 284c227caa754915813b617ca471cd87
+run_name: learned-fowl-449
+run_uuid: 284c227caa754915813b617ca471cd87
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709560689239
+status: 3
+tags: []
+user_id: pablo

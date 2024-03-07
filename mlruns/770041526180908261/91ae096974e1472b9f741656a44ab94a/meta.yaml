@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/770041526180908261/91ae096974e1472b9f741656a44ab94a/artifacts
+deleted_time: 1707932806278
+end_time: 1707932359272
+entry_point_name: ''
+experiment_id: '770041526180908261'
+lifecycle_stage: deleted
+run_id: 91ae096974e1472b9f741656a44ab94a
+run_name: angry-kit-960
+run_uuid: 91ae096974e1472b9f741656a44ab94a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707932359182
+status: 4
+tags: []
+user_id: pablo

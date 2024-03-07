@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/738477571856283226/d7d66534afb6493ab90493a3e7a96111/artifacts
+end_time: 1708955799265
+entry_point_name: ''
+experiment_id: '738477571856283226'
+lifecycle_stage: active
+run_id: d7d66534afb6493ab90493a3e7a96111
+run_name: judicious-worm-464
+run_uuid: d7d66534afb6493ab90493a3e7a96111
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708955798184
+status: 3
+tags: []
+user_id: pablo

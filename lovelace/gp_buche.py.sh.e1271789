@@ -1,0 +1,462 @@
+bash: qstat: command not found
+[32m[I 2024-03-05 13:43:08,286][0m A new study created in memory with name: no-name-18275aaf-b8a4-4133-9faf-ba7d0191e299[0m
+/LUSTRE/users/pvaras/.conda/envs/chemvae3/lib/python3.6/site-packages/sklearn/gaussian_process/kernels.py:409: ConvergenceWarning: The optimal value found for dimension 0 of parameter length_scale is close to the specified lower bound 1e-05. Decreasing the bound and calling fit again may find a better value.
+  ConvergenceWarning)
+/LUSTRE/users/pvaras/.conda/envs/chemvae3/lib/python3.6/site-packages/sklearn/gaussian_process/kernels.py:418: ConvergenceWarning: The optimal value found for dimension 0 of parameter periodicity is close to the specified upper bound 100000.0. Increasing the bound and calling fit again may find a better value.
+  ConvergenceWarning)
+[32m[I 2024-03-05 13:43:52,239][0m Trial 0 finished with value: 1.21143842704729 and parameters: {'kernel': 'ExpSineSquared', 'length_scale': 8.418257914047139}. Best is trial 0 with value: 1.21143842704729.[0m
+[32m[I 2024-03-05 13:44:55,438][0m Trial 1 finished with value: 0.39131891762502047 and parameters: {'kernel': 'ExpSineSquared', 'length_scale': 4.329454220555674}. Best is trial 1 with value: 0.39131891762502047.[0m
+[32m[I 2024-03-05 13:45:32,548][0m Trial 2 finished with value: 1.6944411042255356 and parameters: {'kernel': 'WhiteKernel', 'length_scale': 3.0213321831497026}. Best is trial 1 with value: 0.39131891762502047.[0m
+/LUSTRE/users/pvaras/.conda/envs/chemvae3/lib/python3.6/site-packages/sklearn/gaussian_process/_gpr.py:506: ConvergenceWarning: lbfgs failed to converge (status=2):
+ABNORMAL_TERMINATION_IN_LNSRCH.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+  _check_optimize_result("lbfgs", opt_res)
+[32m[I 2024-03-05 13:56:28,472][0m Trial 3 finished with value: 0.4035341689644646 and parameters: {'kernel': 'Matern', 'length_scale': 6.134931597268805, 'nu': 1.5}. Best is trial 1 with value: 0.39131891762502047.[0m
+[32m[I 2024-03-05 13:56:57,545][0m Trial 4 finished with value: 1.6944411042255356 and parameters: {'kernel': 'WhiteKernel', 'length_scale': 8.856701427120827}. Best is trial 1 with value: 0.39131891762502047.[0m
+/LUSTRE/users/pvaras/.conda/envs/chemvae3/lib/python3.6/site-packages/sklearn/gaussian_process/_gpr.py:506: ConvergenceWarning: lbfgs failed to converge (status=2):
+ABNORMAL_TERMINATION_IN_LNSRCH.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+  _check_optimize_result("lbfgs", opt_res)
+[32m[I 2024-03-05 14:05:57,225][0m Trial 5 finished with value: 0.6051144311174913 and parameters: {'kernel': 'RationalQuadratic', 'length_scale': 2.922516262924594}. Best is trial 1 with value: 0.39131891762502047.[0m
+[32m[I 2024-03-05 14:06:51,561][0m Trial 6 finished with value: 1.2114384060935186 and parameters: {'kernel': 'ExpSineSquared', 'length_scale': 2.4028444502681223}. Best is trial 1 with value: 0.39131891762502047.[0m
+[32m[I 2024-03-05 14:09:00,951][0m Trial 7 finished with value: 1.2098253601988453 and parameters: {'kernel': 'RBF', 'length_scale': 3.473000260661987}. Best is trial 1 with value: 0.39131891762502047.[0m
+[32m[I 2024-03-05 14:09:37,439][0m Trial 8 finished with value: 1.6944411042255356 and parameters: {'kernel': 'WhiteKernel', 'length_scale': 1.642420225098339}. Best is trial 1 with value: 0.39131891762502047.[0m
+/LUSTRE/users/pvaras/.conda/envs/chemvae3/lib/python3.6/site-packages/sklearn/gaussian_process/kernels.py:409: ConvergenceWarning: The optimal value found for dimension 0 of parameter length_scale is close to the specified lower bound 1e-05. Decreasing the bound and calling fit again may find a better value.
+  ConvergenceWarning)
+[32m[I 2024-03-05 14:10:28,704][0m Trial 9 finished with value: 1.2114384060935186 and parameters: {'kernel': 'RBF', 'length_scale': 0.9684584263575304}. Best is trial 1 with value: 0.39131891762502047.[0m
+[32m[I 2024-03-05 14:11:23,810][0m Trial 10 finished with value: 1.2114384060935186 and parameters: {'kernel': 'ExpSineSquared', 'length_scale': 5.743655086052778}. Best is trial 1 with value: 0.39131891762502047.[0m
+/LUSTRE/users/pvaras/.conda/envs/chemvae3/lib/python3.6/site-packages/sklearn/gaussian_process/_gpr.py:506: ConvergenceWarning: lbfgs failed to converge (status=2):
+ABNORMAL_TERMINATION_IN_LNSRCH.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+  _check_optimize_result("lbfgs", opt_res)
+[32m[I 2024-03-05 14:16:41,395][0m Trial 11 finished with value: 0.38348796176914385 and parameters: {'kernel': 'Matern', 'length_scale': 6.290921442679095, 'nu': 1.5}. Best is trial 11 with value: 0.38348796176914385.[0m
+/LUSTRE/users/pvaras/.conda/envs/chemvae3/lib/python3.6/site-packages/sklearn/gaussian_process/kernels.py:1690: RuntimeWarning: invalid value encountered in true_divide
+  / np.sqrt(D.sum(2))[:, :, np.newaxis]
+/LUSTRE/users/pvaras/.conda/envs/chemvae3/lib/python3.6/site-packages/sklearn/gaussian_process/_gpr.py:506: ConvergenceWarning: lbfgs failed to converge (status=2):
+ABNORMAL_TERMINATION_IN_LNSRCH.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+  _check_optimize_result("lbfgs", opt_res)
+[32m[I 2024-03-05 14:23:19,683][0m Trial 12 finished with value: 0.39460649911731294 and parameters: {'kernel': 'Matern', 'length_scale': 4.756314108611908, 'nu': 0.5}. Best is trial 11 with value: 0.38348796176914385.[0m
+/LUSTRE/users/pvaras/.conda/envs/chemvae3/lib/python3.6/site-packages/sklearn/gaussian_process/_gpr.py:506: ConvergenceWarning: lbfgs failed to converge (status=2):
+ABNORMAL_TERMINATION_IN_LNSRCH.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+  _check_optimize_result("lbfgs", opt_res)
+[32m[I 2024-03-05 14:33:46,417][0m Trial 13 finished with value: 0.4170899354068467 and parameters: {'kernel': 'Matern', 'length_scale': 7.276665443728163, 'nu': 1.5}. Best is trial 11 with value: 0.38348796176914385.[0m
+[32m[I 2024-03-05 14:48:37,714][0m Trial 14 finished with value: 0.44656964913218733 and parameters: {'kernel': 'RationalQuadratic', 'length_scale': 4.9619082882662084}. Best is trial 11 with value: 0.38348796176914385.[0m
+/LUSTRE/users/pvaras/.conda/envs/chemvae3/lib/python3.6/site-packages/sklearn/gaussian_process/_gpr.py:506: ConvergenceWarning: lbfgs failed to converge (status=2):
+ABNORMAL_TERMINATION_IN_LNSRCH.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+  _check_optimize_result("lbfgs", opt_res)
+[32m[I 2024-03-05 15:08:51,507][0m Trial 15 finished with value: 0.43061497426717127 and parameters: {'kernel': 'Matern', 'length_scale': 7.195800228888218, 'nu': 2.5}. Best is trial 11 with value: 0.38348796176914385.[0m
+[32m[I 2024-03-05 15:10:08,427][0m Trial 16 finished with value: 1.2114385238671987 and parameters: {'kernel': 'ExpSineSquared', 'length_scale': 4.62484324025632}. Best is trial 11 with value: 0.38348796176914385.[0m
+/LUSTRE/users/pvaras/.conda/envs/chemvae3/lib/python3.6/site-packages/sklearn/gaussian_process/_gpr.py:506: ConvergenceWarning: lbfgs failed to converge (status=2):
+ABNORMAL_TERMINATION_IN_LNSRCH.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+  _check_optimize_result("lbfgs", opt_res)
+[32m[I 2024-03-05 15:19:38,054][0m Trial 17 finished with value: 0.4196834824305757 and parameters: {'kernel': 'Matern', 'length_scale': 9.831001445277973, 'nu': 1.5}. Best is trial 11 with value: 0.38348796176914385.[0m
+[32m[I 2024-03-05 15:21:11,834][0m Trial 18 finished with value: 0.5765572069556054 and parameters: {'kernel': 'ExpSineSquared', 'length_scale': 6.755190115712553}. Best is trial 11 with value: 0.38348796176914385.[0m
+/LUSTRE/users/pvaras/.conda/envs/chemvae3/lib/python3.6/site-packages/sklearn/gaussian_process/_gpr.py:506: ConvergenceWarning: lbfgs failed to converge (status=2):
+ABNORMAL_TERMINATION_IN_LNSRCH.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+  _check_optimize_result("lbfgs", opt_res)
+[32m[I 2024-03-05 15:23:12,194][0m Trial 19 finished with value: 1.2114383938474733 and parameters: {'kernel': 'RBF', 'length_scale': 3.8659511759292515}. Best is trial 11 with value: 0.38348796176914385.[0m
+[32m[I 2024-03-05 15:32:17,962][0m Trial 20 finished with value: 0.6474236750093351 and parameters: {'kernel': 'RationalQuadratic', 'length_scale': 8.116197618467528}. Best is trial 11 with value: 0.38348796176914385.[0m
+/LUSTRE/users/pvaras/.conda/envs/chemvae3/lib/python3.6/site-packages/sklearn/gaussian_process/kernels.py:1690: RuntimeWarning: invalid value encountered in true_divide
+  / np.sqrt(D.sum(2))[:, :, np.newaxis]
+/LUSTRE/users/pvaras/.conda/envs/chemvae3/lib/python3.6/site-packages/sklearn/gaussian_process/_gpr.py:506: ConvergenceWarning: lbfgs failed to converge (status=2):
+ABNORMAL_TERMINATION_IN_LNSRCH.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+  _check_optimize_result("lbfgs", opt_res)
+[32m[I 2024-03-05 15:38:59,676][0m Trial 21 finished with value: 0.39799057315130393 and parameters: {'kernel': 'Matern', 'length_scale': 4.471941851957126, 'nu': 0.5}. Best is trial 11 with value: 0.38348796176914385.[0m
+/LUSTRE/users/pvaras/.conda/envs/chemvae3/lib/python3.6/site-packages/sklearn/gaussian_process/kernels.py:1690: RuntimeWarning: invalid value encountered in true_divide
+  / np.sqrt(D.sum(2))[:, :, np.newaxis]
+[32m[I 2024-03-05 15:46:43,727][0m Trial 22 finished with value: 0.3979125489112169 and parameters: {'kernel': 'Matern', 'length_scale': 5.600404052914973, 'nu': 0.5}. Best is trial 11 with value: 0.38348796176914385.[0m
+/LUSTRE/users/pvaras/.conda/envs/chemvae3/lib/python3.6/site-packages/sklearn/gaussian_process/kernels.py:1690: RuntimeWarning: invalid value encountered in true_divide
+  / np.sqrt(D.sum(2))[:, :, np.newaxis]
+/LUSTRE/users/pvaras/.conda/envs/chemvae3/lib/python3.6/site-packages/sklearn/gaussian_process/_gpr.py:506: ConvergenceWarning: lbfgs failed to converge (status=2):
+ABNORMAL_TERMINATION_IN_LNSRCH.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+  _check_optimize_result("lbfgs", opt_res)
+[32m[I 2024-03-05 15:52:28,558][0m Trial 23 finished with value: 0.40962794143010167 and parameters: {'kernel': 'Matern', 'length_scale': 4.0720991915895315, 'nu': 0.5}. Best is trial 11 with value: 0.38348796176914385.[0m
+[32m[I 2024-03-05 15:54:00,637][0m Trial 24 finished with value: 0.38653476006768317 and parameters: {'kernel': 'Matern', 'length_scale': 6.3488599004859685, 'nu': 2.5}. Best is trial 11 with value: 0.38348796176914385.[0m
+[32m[I 2024-03-05 15:54:34,980][0m Trial 25 finished with value: 1.2114384060935186 and parameters: {'kernel': 'ExpSineSquared', 'length_scale': 6.496765214834769}. Best is trial 11 with value: 0.38348796176914385.[0m
+/LUSTRE/users/pvaras/.conda/envs/chemvae3/lib/python3.6/site-packages/sklearn/gaussian_process/_gpr.py:506: ConvergenceWarning: lbfgs failed to converge (status=2):
+ABNORMAL_TERMINATION_IN_LNSRCH.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+  _check_optimize_result("lbfgs", opt_res)
+[32m[I 2024-03-05 16:04:10,723][0m Trial 26 finished with value: 0.393178657564949 and parameters: {'kernel': 'Matern', 'length_scale': 5.376472423303922, 'nu': 2.5}. Best is trial 11 with value: 0.38348796176914385.[0m
+/LUSTRE/users/pvaras/.conda/envs/chemvae3/lib/python3.6/site-packages/sklearn/gaussian_process/_gpr.py:506: ConvergenceWarning: lbfgs failed to converge (status=2):
+ABNORMAL_TERMINATION_IN_LNSRCH.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+  _check_optimize_result("lbfgs", opt_res)
+[32m[I 2024-03-05 16:10:04,848][0m Trial 27 finished with value: 0.4553884270161968 and parameters: {'kernel': 'Matern', 'length_scale': 7.492496001662682, 'nu': 2.5}. Best is trial 11 with value: 0.38348796176914385.[0m
+[32m[I 2024-03-05 16:16:54,327][0m Trial 28 finished with value: 0.3979822855223398 and parameters: {'kernel': 'ExpSineSquared', 'length_scale': 0.23945148849856412}. Best is trial 11 with value: 0.38348796176914385.[0m
+[32m[I 2024-03-05 16:19:20,768][0m Trial 29 finished with value: 1.2110719129271135 and parameters: {'kernel': 'ExpSineSquared', 'length_scale': 8.448648373474523}. Best is trial 11 with value: 0.38348796176914385.[0m
+/LUSTRE/users/pvaras/.conda/envs/chemvae3/lib/python3.6/site-packages/sklearn/gaussian_process/_gpr.py:506: ConvergenceWarning: lbfgs failed to converge (status=2):
+ABNORMAL_TERMINATION_IN_LNSRCH.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+  _check_optimize_result("lbfgs", opt_res)
+[32m[I 2024-03-05 16:29:32,534][0m Trial 30 finished with value: 1.210633567654594 and parameters: {'kernel': 'RBF', 'length_scale': 6.0566541713191775}. Best is trial 11 with value: 0.38348796176914385.[0m
+[32m[I 2024-03-05 16:36:07,832][0m Trial 31 finished with value: 0.3833247589829776 and parameters: {'kernel': 'Matern', 'length_scale': 5.333207146703476, 'nu': 2.5}. Best is trial 31 with value: 0.3833247589829776.[0m
+/LUSTRE/users/pvaras/.conda/envs/chemvae3/lib/python3.6/site-packages/sklearn/gaussian_process/_gpr.py:506: ConvergenceWarning: lbfgs failed to converge (status=2):
+ABNORMAL_TERMINATION_IN_LNSRCH.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+  _check_optimize_result("lbfgs", opt_res)
+[32m[I 2024-03-05 16:48:19,043][0m Trial 32 finished with value: 0.42390413486208933 and parameters: {'kernel': 'Matern', 'length_scale': 5.17779586799434, 'nu': 2.5}. Best is trial 31 with value: 0.3833247589829776.[0m
+[32m[I 2024-03-05 16:51:17,036][0m Trial 33 finished with value: 0.4488541743569241 and parameters: {'kernel': 'Matern', 'length_scale': 6.313170707568937, 'nu': 2.5}. Best is trial 31 with value: 0.3833247589829776.[0m
+[32m[I 2024-03-05 16:51:44,034][0m Trial 34 finished with value: 1.6944411042255356 and parameters: {'kernel': 'WhiteKernel', 'length_scale': 7.729023311120925}. Best is trial 31 with value: 0.3833247589829776.[0m
+/LUSTRE/users/pvaras/.conda/envs/chemvae3/lib/python3.6/site-packages/sklearn/gaussian_process/_gpr.py:506: ConvergenceWarning: lbfgs failed to converge (status=2):
+ABNORMAL_TERMINATION_IN_LNSRCH.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+  _check_optimize_result("lbfgs", opt_res)
+[32m[I 2024-03-05 16:57:33,567][0m Trial 35 finished with value: 0.3832809681748589 and parameters: {'kernel': 'Matern', 'length_scale': 6.918888944259743, 'nu': 1.5}. Best is trial 35 with value: 0.3832809681748589.[0m
+/LUSTRE/users/pvaras/.conda/envs/chemvae3/lib/python3.6/site-packages/sklearn/gaussian_process/_gpr.py:506: ConvergenceWarning: lbfgs failed to converge (status=2):
+ABNORMAL_TERMINATION_IN_LNSRCH.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+  _check_optimize_result("lbfgs", opt_res)
+[32m[I 2024-03-05 17:03:07,810][0m Trial 36 finished with value: 0.38543580537291433 and parameters: {'kernel': 'Matern', 'length_scale': 6.850346359272469, 'nu': 1.5}. Best is trial 35 with value: 0.3832809681748589.[0m
+[32m[I 2024-03-05 17:05:26,105][0m Trial 37 finished with value: 0.39302092881078005 and parameters: {'kernel': 'Matern', 'length_scale': 9.030723683728358, 'nu': 1.5}. Best is trial 35 with value: 0.3832809681748589.[0m
+/LUSTRE/users/pvaras/.conda/envs/chemvae3/lib/python3.6/site-packages/sklearn/gaussian_process/_gpr.py:506: ConvergenceWarning: lbfgs failed to converge (status=2):
+ABNORMAL_TERMINATION_IN_LNSRCH.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+  _check_optimize_result("lbfgs", opt_res)
+[32m[I 2024-03-05 17:10:51,461][0m Trial 38 finished with value: 0.38525924332708084 and parameters: {'kernel': 'Matern', 'length_scale': 6.932032698788553, 'nu': 1.5}. Best is trial 35 with value: 0.3832809681748589.[0m
+/LUSTRE/users/pvaras/.conda/envs/chemvae3/lib/python3.6/site-packages/sklearn/gaussian_process/_gpr.py:506: ConvergenceWarning: lbfgs failed to converge (status=2):
+ABNORMAL_TERMINATION_IN_LNSRCH.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+  _check_optimize_result("lbfgs", opt_res)
+[32m[I 2024-03-05 17:14:55,616][0m Trial 39 finished with value: 1.2114383903634534 and parameters: {'kernel': 'Matern', 'length_scale': 7.978630142626116, 'nu': 1.5}. Best is trial 35 with value: 0.3832809681748589.[0m
+[32m[I 2024-03-05 17:15:24,202][0m Trial 40 finished with value: 1.6944411042255356 and parameters: {'kernel': 'WhiteKernel', 'length_scale': 5.88169392995418}. Best is trial 35 with value: 0.3832809681748589.[0m
+/LUSTRE/users/pvaras/.conda/envs/chemvae3/lib/python3.6/site-packages/sklearn/gaussian_process/kernels.py:409: ConvergenceWarning: The optimal value found for dimension 0 of parameter length_scale is close to the specified lower bound 1e-05. Decreasing the bound and calling fit again may find a better value.
+  ConvergenceWarning)
+[32m[I 2024-03-05 17:16:22,170][0m Trial 41 finished with value: 1.2114384060935186 and parameters: {'kernel': 'Matern', 'length_scale': 6.823091298608405, 'nu': 1.5}. Best is trial 35 with value: 0.3832809681748589.[0m
+/LUSTRE/users/pvaras/.conda/envs/chemvae3/lib/python3.6/site-packages/sklearn/gaussian_process/_gpr.py:506: ConvergenceWarning: lbfgs failed to converge (status=2):
+ABNORMAL_TERMINATION_IN_LNSRCH.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+  _check_optimize_result("lbfgs", opt_res)
+[32m[I 2024-03-05 17:23:50,353][0m Trial 42 finished with value: 0.4469848389753018 and parameters: {'kernel': 'Matern', 'length_scale': 6.916625681786508, 'nu': 1.5}. Best is trial 35 with value: 0.3832809681748589.[0m
+/LUSTRE/users/pvaras/.conda/envs/chemvae3/lib/python3.6/site-packages/sklearn/gaussian_process/_gpr.py:506: ConvergenceWarning: lbfgs failed to converge (status=2):
+ABNORMAL_TERMINATION_IN_LNSRCH.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+  _check_optimize_result("lbfgs", opt_res)
+[32m[I 2024-03-05 17:26:18,891][0m Trial 43 finished with value: 0.3922186581355251 and parameters: {'kernel': 'Matern', 'length_scale': 8.80658602351156, 'nu': 1.5}. Best is trial 35 with value: 0.3832809681748589.[0m
+[32m[I 2024-03-05 17:31:25,909][0m Trial 44 finished with value: 0.4827005932498342 and parameters: {'kernel': 'RationalQuadratic', 'length_scale': 7.124582794205537}. Best is trial 35 with value: 0.3832809681748589.[0m
+/LUSTRE/users/pvaras/.conda/envs/chemvae3/lib/python3.6/site-packages/sklearn/gaussian_process/_gpr.py:506: ConvergenceWarning: lbfgs failed to converge (status=2):
+ABNORMAL_TERMINATION_IN_LNSRCH.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+  _check_optimize_result("lbfgs", opt_res)
+[32m[I 2024-03-05 17:33:45,442][0m Trial 45 finished with value: 1.0993721110346726 and parameters: {'kernel': 'Matern', 'length_scale': 5.535176479138786, 'nu': 1.5}. Best is trial 35 with value: 0.3832809681748589.[0m
+/LUSTRE/users/pvaras/.conda/envs/chemvae3/lib/python3.6/site-packages/sklearn/gaussian_process/kernels.py:409: ConvergenceWarning: The optimal value found for dimension 0 of parameter length_scale is close to the specified lower bound 1e-05. Decreasing the bound and calling fit again may find a better value.
+  ConvergenceWarning)
+[32m[I 2024-03-05 17:34:43,996][0m Trial 46 finished with value: 1.2114384060935186 and parameters: {'kernel': 'Matern', 'length_scale': 7.653165185505292, 'nu': 1.5}. Best is trial 35 with value: 0.3832809681748589.[0m
+/LUSTRE/users/pvaras/.conda/envs/chemvae3/lib/python3.6/site-packages/sklearn/gaussian_process/_gpr.py:506: ConvergenceWarning: lbfgs failed to converge (status=2):
+ABNORMAL_TERMINATION_IN_LNSRCH.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+  _check_optimize_result("lbfgs", opt_res)
+[32m[I 2024-03-05 17:42:45,423][0m Trial 47 finished with value: 1.2114384272806993 and parameters: {'kernel': 'Matern', 'length_scale': 6.497054152547219, 'nu': 1.5}. Best is trial 35 with value: 0.3832809681748589.[0m
+[32m[I 2024-03-05 17:43:12,506][0m Trial 48 finished with value: 1.6944411042255356 and parameters: {'kernel': 'WhiteKernel', 'length_scale': 5.039975230681501}. Best is trial 35 with value: 0.3832809681748589.[0m
+[32m[I 2024-03-05 17:47:19,560][0m Trial 49 finished with value: 0.5230435860452555 and parameters: {'kernel': 'Matern', 'length_scale': 3.121604741849986, 'nu': 1.5}. Best is trial 35 with value: 0.3832809681748589.[0m
+/LUSTRE/users/pvaras/.conda/envs/chemvae3/lib/python3.6/site-packages/sklearn/gaussian_process/_gpr.py:506: ConvergenceWarning: lbfgs failed to converge (status=2):
+ABNORMAL_TERMINATION_IN_LNSRCH.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+  _check_optimize_result("lbfgs", opt_res)
+[32m[I 2024-03-05 17:53:23,953][0m Trial 50 finished with value: 0.4045768923171725 and parameters: {'kernel': 'RBF', 'length_scale': 6.02360041638653}. Best is trial 35 with value: 0.3832809681748589.[0m
+/LUSTRE/users/pvaras/.conda/envs/chemvae3/lib/python3.6/site-packages/sklearn/gaussian_process/_gpr.py:506: ConvergenceWarning: lbfgs failed to converge (status=2):
+ABNORMAL_TERMINATION_IN_LNSRCH.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+  _check_optimize_result("lbfgs", opt_res)
+[32m[I 2024-03-05 18:00:29,503][0m Trial 51 finished with value: 0.41477392002915725 and parameters: {'kernel': 'Matern', 'length_scale': 6.2713859209562735, 'nu': 2.5}. Best is trial 35 with value: 0.3832809681748589.[0m
+[32m[I 2024-03-05 18:10:32,947][0m Trial 52 finished with value: 0.502375383029326 and parameters: {'kernel': 'Matern', 'length_scale': 6.851452288293421, 'nu': 2.5}. Best is trial 35 with value: 0.3832809681748589.[0m
+[32m[I 2024-03-05 18:12:58,283][0m Trial 53 finished with value: 0.39811603845465443 and parameters: {'kernel': 'Matern', 'length_scale': 7.416203867350783, 'nu': 2.5}. Best is trial 35 with value: 0.3832809681748589.[0m
+/LUSTRE/users/pvaras/.conda/envs/chemvae3/lib/python3.6/site-packages/sklearn/gaussian_process/_gpr.py:506: ConvergenceWarning: lbfgs failed to converge (status=2):
+ABNORMAL_TERMINATION_IN_LNSRCH.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+  _check_optimize_result("lbfgs", opt_res)
+[32m[I 2024-03-05 18:28:54,765][0m Trial 54 finished with value: 0.6494671130300608 and parameters: {'kernel': 'RationalQuadratic', 'length_scale': 6.620803306212937}. Best is trial 35 with value: 0.3832809681748589.[0m
+[32m[I 2024-03-05 18:32:27,124][0m Trial 55 finished with value: 0.4453591852881919 and parameters: {'kernel': 'Matern', 'length_scale': 5.585250535683741, 'nu': 1.5}. Best is trial 35 with value: 0.3832809681748589.[0m
+/LUSTRE/users/pvaras/.conda/envs/chemvae3/lib/python3.6/site-packages/sklearn/gaussian_process/_gpr.py:506: ConvergenceWarning: lbfgs failed to converge (status=2):
+ABNORMAL_TERMINATION_IN_LNSRCH.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+  _check_optimize_result("lbfgs", opt_res)
+[32m[I 2024-03-05 18:44:08,084][0m Trial 56 finished with value: 0.46382422171972376 and parameters: {'kernel': 'Matern', 'length_scale': 8.201669222699582, 'nu': 1.5}. Best is trial 35 with value: 0.3832809681748589.[0m
+/LUSTRE/users/pvaras/.conda/envs/chemvae3/lib/python3.6/site-packages/sklearn/gaussian_process/_gpr.py:506: ConvergenceWarning: lbfgs failed to converge (status=2):
+ABNORMAL_TERMINATION_IN_LNSRCH.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+  _check_optimize_result("lbfgs", opt_res)
+[32m[I 2024-03-05 18:50:09,081][0m Trial 57 finished with value: 0.4848475915874626 and parameters: {'kernel': 'Matern', 'length_scale': 4.847343869504697, 'nu': 1.5}. Best is trial 35 with value: 0.3832809681748589.[0m
+/LUSTRE/users/pvaras/.conda/envs/chemvae3/lib/python3.6/site-packages/sklearn/gaussian_process/_gpr.py:506: ConvergenceWarning: lbfgs failed to converge (status=2):
+ABNORMAL_TERMINATION_IN_LNSRCH.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+  _check_optimize_result("lbfgs", opt_res)
+[32m[I 2024-03-05 18:55:12,836][0m Trial 58 finished with value: 1.2114371129781212 and parameters: {'kernel': 'Matern', 'length_scale': 7.1146125797602435, 'nu': 2.5}. Best is trial 35 with value: 0.3832809681748589.[0m
+/LUSTRE/users/pvaras/.conda/envs/chemvae3/lib/python3.6/site-packages/sklearn/gaussian_process/_gpr.py:506: ConvergenceWarning: lbfgs failed to converge (status=2):
+ABNORMAL_TERMINATION_IN_LNSRCH.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+  _check_optimize_result("lbfgs", opt_res)
+[32m[I 2024-03-05 19:03:25,060][0m Trial 59 finished with value: 0.3942856202259984 and parameters: {'kernel': 'Matern', 'length_scale': 5.8076224183704435, 'nu': 1.5}. Best is trial 35 with value: 0.3832809681748589.[0m
+[32m[I 2024-03-05 19:06:12,561][0m Trial 60 finished with value: 0.3847328690168869 and parameters: {'kernel': 'RBF', 'length_scale': 3.9743872369214595}. Best is trial 35 with value: 0.3832809681748589.[0m
+[32m[I 2024-03-05 19:11:38,943][0m Trial 61 finished with value: 0.47893595043492154 and parameters: {'kernel': 'RBF', 'length_scale': 3.6054128179379576}. Best is trial 35 with value: 0.3832809681748589.[0m
+/LUSTRE/users/pvaras/.conda/envs/chemvae3/lib/python3.6/site-packages/sklearn/gaussian_process/_gpr.py:506: ConvergenceWarning: lbfgs failed to converge (status=2):
+ABNORMAL_TERMINATION_IN_LNSRCH.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+  _check_optimize_result("lbfgs", opt_res)
+[32m[I 2024-03-05 19:15:53,817][0m Trial 62 finished with value: 0.4519209062550057 and parameters: {'kernel': 'RBF', 'length_scale': 4.134896358106468}. Best is trial 35 with value: 0.3832809681748589.[0m
+/LUSTRE/users/pvaras/.conda/envs/chemvae3/lib/python3.6/site-packages/sklearn/gaussian_process/_gpr.py:506: ConvergenceWarning: lbfgs failed to converge (status=2):
+ABNORMAL_TERMINATION_IN_LNSRCH.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+  _check_optimize_result("lbfgs", opt_res)
+[32m[I 2024-03-05 19:32:55,476][0m Trial 63 finished with value: 0.46957076483153404 and parameters: {'kernel': 'RBF', 'length_scale': 2.1231748097125953}. Best is trial 35 with value: 0.3832809681748589.[0m
+/LUSTRE/users/pvaras/.conda/envs/chemvae3/lib/python3.6/site-packages/sklearn/gaussian_process/_gpr.py:506: ConvergenceWarning: lbfgs failed to converge (status=2):
+ABNORMAL_TERMINATION_IN_LNSRCH.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+  _check_optimize_result("lbfgs", opt_res)
+[32m[I 2024-03-05 19:42:26,380][0m Trial 64 finished with value: 0.39084330391386457 and parameters: {'kernel': 'RBF', 'length_scale': 4.411260844949506}. Best is trial 35 with value: 0.3832809681748589.[0m
+/LUSTRE/users/pvaras/.conda/envs/chemvae3/lib/python3.6/site-packages/sklearn/gaussian_process/_gpr.py:506: ConvergenceWarning: lbfgs failed to converge (status=2):
+ABNORMAL_TERMINATION_IN_LNSRCH.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+  _check_optimize_result("lbfgs", opt_res)
+[32m[I 2024-03-05 19:49:58,178][0m Trial 65 finished with value: 0.3889692014506371 and parameters: {'kernel': 'RationalQuadratic', 'length_scale': 5.250951936098125}. Best is trial 35 with value: 0.3832809681748589.[0m
+/LUSTRE/users/pvaras/.conda/envs/chemvae3/lib/python3.6/site-packages/sklearn/gaussian_process/_gpr.py:506: ConvergenceWarning: lbfgs failed to converge (status=2):
+ABNORMAL_TERMINATION_IN_LNSRCH.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+  _check_optimize_result("lbfgs", opt_res)
+[32m[I 2024-03-05 19:57:12,589][0m Trial 66 finished with value: 0.3924255888170978 and parameters: {'kernel': 'Matern', 'length_scale': 7.197336746863943, 'nu': 1.5}. Best is trial 35 with value: 0.3832809681748589.[0m
+[32m[I 2024-03-05 19:59:42,425][0m Trial 67 finished with value: 0.49649022907665574 and parameters: {'kernel': 'RBF', 'length_scale': 6.309779785865404}. Best is trial 35 with value: 0.3832809681748589.[0m
+[32m[I 2024-03-05 20:00:13,839][0m Trial 68 finished with value: 1.6944411042255356 and parameters: {'kernel': 'WhiteKernel', 'length_scale': 7.8671309498392406}. Best is trial 35 with value: 0.3832809681748589.[0m
+/LUSTRE/users/pvaras/.conda/envs/chemvae3/lib/python3.6/site-packages/sklearn/gaussian_process/_gpr.py:506: ConvergenceWarning: lbfgs failed to converge (status=2):
+ABNORMAL_TERMINATION_IN_LNSRCH.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+  _check_optimize_result("lbfgs", opt_res)
+[32m[I 2024-03-05 20:04:45,752][0m Trial 69 finished with value: 0.3804952664916104 and parameters: {'kernel': 'Matern', 'length_scale': 4.608129015700785, 'nu': 2.5}. Best is trial 69 with value: 0.3804952664916104.[0m
+[32m[I 2024-03-05 20:07:23,768][0m Trial 70 finished with value: 0.4413130472434848 and parameters: {'kernel': 'Matern', 'length_scale': 3.8145656411404154, 'nu': 1.5}. Best is trial 69 with value: 0.3804952664916104.[0m
+/LUSTRE/users/pvaras/.conda/envs/chemvae3/lib/python3.6/site-packages/sklearn/gaussian_process/_gpr.py:506: ConvergenceWarning: lbfgs failed to converge (status=2):
+ABNORMAL_TERMINATION_IN_LNSRCH.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+  _check_optimize_result("lbfgs", opt_res)
+[32m[I 2024-03-05 20:13:09,617][0m Trial 71 finished with value: 0.497908796000195 and parameters: {'kernel': 'Matern', 'length_scale': 4.636375008797979, 'nu': 2.5}. Best is trial 69 with value: 0.3804952664916104.[0m
+/LUSTRE/users/pvaras/.conda/envs/chemvae3/lib/python3.6/site-packages/sklearn/gaussian_process/kernels.py:409: ConvergenceWarning: The optimal value found for dimension 0 of parameter length_scale is close to the specified lower bound 1e-05. Decreasing the bound and calling fit again may find a better value.
+  ConvergenceWarning)
+[32m[I 2024-03-05 20:13:58,526][0m Trial 72 finished with value: 1.2114384060935186 and parameters: {'kernel': 'Matern', 'length_scale': 6.085293879283263, 'nu': 2.5}. Best is trial 69 with value: 0.3804952664916104.[0m
+/LUSTRE/users/pvaras/.conda/envs/chemvae3/lib/python3.6/site-packages/sklearn/gaussian_process/_gpr.py:506: ConvergenceWarning: lbfgs failed to converge (status=2):
+ABNORMAL_TERMINATION_IN_LNSRCH.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+  _check_optimize_result("lbfgs", opt_res)
+[32m[I 2024-03-05 20:19:38,738][0m Trial 73 finished with value: 0.389513502853991 and parameters: {'kernel': 'Matern', 'length_scale': 5.327641066238499, 'nu': 2.5}. Best is trial 69 with value: 0.3804952664916104.[0m
+/LUSTRE/users/pvaras/.conda/envs/chemvae3/lib/python3.6/site-packages/sklearn/gaussian_process/kernels.py:1690: RuntimeWarning: invalid value encountered in true_divide
+  / np.sqrt(D.sum(2))[:, :, np.newaxis]
+/LUSTRE/users/pvaras/.conda/envs/chemvae3/lib/python3.6/site-packages/sklearn/gaussian_process/_gpr.py:506: ConvergenceWarning: lbfgs failed to converge (status=2):
+ABNORMAL_TERMINATION_IN_LNSRCH.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+  _check_optimize_result("lbfgs", opt_res)
+[32m[I 2024-03-05 20:28:30,444][0m Trial 74 finished with value: 0.3978992313232388 and parameters: {'kernel': 'Matern', 'length_scale': 2.950817587807763, 'nu': 0.5}. Best is trial 69 with value: 0.3804952664916104.[0m
+[32m[I 2024-03-05 20:29:33,889][0m Trial 75 finished with value: 0.7500937826670624 and parameters: {'kernel': 'ExpSineSquared', 'length_scale': 6.564903130147329}. Best is trial 69 with value: 0.3804952664916104.[0m
+/LUSTRE/users/pvaras/.conda/envs/chemvae3/lib/python3.6/site-packages/sklearn/gaussian_process/_gpr.py:506: ConvergenceWarning: lbfgs failed to converge (status=2):
+ABNORMAL_TERMINATION_IN_LNSRCH.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+  _check_optimize_result("lbfgs", opt_res)
+[32m[I 2024-03-05 20:31:58,110][0m Trial 76 finished with value: 0.3863883452313594 and parameters: {'kernel': 'Matern', 'length_scale': 5.794242596815626, 'nu': 2.5}. Best is trial 69 with value: 0.3804952664916104.[0m
+/LUSTRE/users/pvaras/.conda/envs/chemvae3/lib/python3.6/site-packages/sklearn/gaussian_process/_gpr.py:506: ConvergenceWarning: lbfgs failed to converge (status=2):
+ABNORMAL_TERMINATION_IN_LNSRCH.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+  _check_optimize_result("lbfgs", opt_res)
+[32m[I 2024-03-05 20:38:13,080][0m Trial 77 finished with value: 0.379687381979862 and parameters: {'kernel': 'Matern', 'length_scale': 4.198927434084177, 'nu': 2.5}. Best is trial 77 with value: 0.379687381979862.[0m
+/LUSTRE/users/pvaras/.conda/envs/chemvae3/lib/python3.6/site-packages/sklearn/gaussian_process/kernels.py:1690: RuntimeWarning: invalid value encountered in true_divide
+  / np.sqrt(D.sum(2))[:, :, np.newaxis]
+[32m[I 2024-03-05 20:41:47,734][0m Trial 78 finished with value: 0.3951340363654761 and parameters: {'kernel': 'Matern', 'length_scale': 3.3337776585125374, 'nu': 0.5}. Best is trial 77 with value: 0.379687381979862.[0m
+/LUSTRE/users/pvaras/.conda/envs/chemvae3/lib/python3.6/site-packages/sklearn/gaussian_process/_gpr.py:506: ConvergenceWarning: lbfgs failed to converge (status=2):
+ABNORMAL_TERMINATION_IN_LNSRCH.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+  _check_optimize_result("lbfgs", opt_res)
+[32m[I 2024-03-05 20:44:02,544][0m Trial 79 finished with value: 0.38493488497859685 and parameters: {'kernel': 'Matern', 'length_scale': 3.851126766975471, 'nu': 1.5}. Best is trial 77 with value: 0.379687381979862.[0m
+[32m[I 2024-03-05 20:49:21,081][0m Trial 80 finished with value: 0.4612135435668337 and parameters: {'kernel': 'RBF', 'length_scale': 2.5801996559198277}. Best is trial 77 with value: 0.379687381979862.[0m
+/LUSTRE/users/pvaras/.conda/envs/chemvae3/lib/python3.6/site-packages/sklearn/gaussian_process/_gpr.py:506: ConvergenceWarning: lbfgs failed to converge (status=2):
+ABNORMAL_TERMINATION_IN_LNSRCH.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+  _check_optimize_result("lbfgs", opt_res)
+[32m[I 2024-03-05 20:52:18,601][0m Trial 81 finished with value: 0.3813568963697132 and parameters: {'kernel': 'Matern', 'length_scale': 4.274822683085136, 'nu': 1.5}. Best is trial 77 with value: 0.379687381979862.[0m
+[32m[I 2024-03-05 20:56:28,864][0m Trial 82 finished with value: 0.463023325102784 and parameters: {'kernel': 'Matern', 'length_scale': 4.103100524765795, 'nu': 1.5}. Best is trial 77 with value: 0.379687381979862.[0m
+/LUSTRE/users/pvaras/.conda/envs/chemvae3/lib/python3.6/site-packages/sklearn/gaussian_process/_gpr.py:506: ConvergenceWarning: lbfgs failed to converge (status=2):
+ABNORMAL_TERMINATION_IN_LNSRCH.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+  _check_optimize_result("lbfgs", opt_res)
+[32m[I 2024-03-05 21:03:50,726][0m Trial 83 finished with value: 0.3810937384530568 and parameters: {'kernel': 'Matern', 'length_scale': 3.4576140847877115, 'nu': 1.5}. Best is trial 77 with value: 0.379687381979862.[0m
+/LUSTRE/users/pvaras/.conda/envs/chemvae3/lib/python3.6/site-packages/sklearn/gaussian_process/_gpr.py:506: ConvergenceWarning: lbfgs failed to converge (status=2):
+ABNORMAL_TERMINATION_IN_LNSRCH.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+  _check_optimize_result("lbfgs", opt_res)
+[32m[I 2024-03-05 21:10:36,115][0m Trial 84 finished with value: 0.4191226309681495 and parameters: {'kernel': 'Matern', 'length_scale': 3.79602726600468, 'nu': 2.5}. Best is trial 77 with value: 0.379687381979862.[0m
+/LUSTRE/users/pvaras/.conda/envs/chemvae3/lib/python3.6/site-packages/sklearn/gaussian_process/_gpr.py:506: ConvergenceWarning: lbfgs failed to converge (status=2):
+ABNORMAL_TERMINATION_IN_LNSRCH.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+  _check_optimize_result("lbfgs", opt_res)
+[32m[I 2024-03-05 21:16:33,884][0m Trial 85 finished with value: 0.47675998005812265 and parameters: {'kernel': 'Matern', 'length_scale': 4.304348654917084, 'nu': 1.5}. Best is trial 77 with value: 0.379687381979862.[0m
+/LUSTRE/users/pvaras/.conda/envs/chemvae3/lib/python3.6/site-packages/sklearn/gaussian_process/_gpr.py:506: ConvergenceWarning: lbfgs failed to converge (status=2):
+ABNORMAL_TERMINATION_IN_LNSRCH.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+  _check_optimize_result("lbfgs", opt_res)
+[32m[I 2024-03-05 21:27:12,244][0m Trial 86 finished with value: 0.41135447194565383 and parameters: {'kernel': 'Matern', 'length_scale': 3.3770411343657685, 'nu': 2.5}. Best is trial 77 with value: 0.379687381979862.[0m
+[32m[I 2024-03-05 21:27:40,626][0m Trial 87 finished with value: 1.6944411042255356 and parameters: {'kernel': 'WhiteKernel', 'length_scale': 4.59269611641168}. Best is trial 77 with value: 0.379687381979862.[0m
+/LUSTRE/users/pvaras/.conda/envs/chemvae3/lib/python3.6/site-packages/sklearn/gaussian_process/_gpr.py:506: ConvergenceWarning: lbfgs failed to converge (status=2):
+ABNORMAL_TERMINATION_IN_LNSRCH.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+  _check_optimize_result("lbfgs", opt_res)
+[32m[I 2024-03-05 21:40:33,221][0m Trial 88 finished with value: 0.43953515095565104 and parameters: {'kernel': 'RationalQuadratic', 'length_scale': 4.918148135439207}. Best is trial 77 with value: 0.379687381979862.[0m
+[32m[I 2024-03-05 21:41:07,647][0m Trial 89 finished with value: 1.2114384060935186 and parameters: {'kernel': 'ExpSineSquared', 'length_scale': 2.5696096324038913}. Best is trial 77 with value: 0.379687381979862.[0m
+[32m[I 2024-03-05 21:43:46,157][0m Trial 90 finished with value: 0.387536095108085 and parameters: {'kernel': 'Matern', 'length_scale': 3.611873059766326, 'nu': 1.5}. Best is trial 77 with value: 0.379687381979862.[0m
+/LUSTRE/users/pvaras/.conda/envs/chemvae3/lib/python3.6/site-packages/sklearn/gaussian_process/_gpr.py:506: ConvergenceWarning: lbfgs failed to converge (status=2):
+ABNORMAL_TERMINATION_IN_LNSRCH.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+  _check_optimize_result("lbfgs", opt_res)
+[32m[I 2024-03-05 21:50:26,373][0m Trial 91 finished with value: 0.4613845264342179 and parameters: {'kernel': 'Matern', 'length_scale': 3.923676307271678, 'nu': 1.5}. Best is trial 77 with value: 0.379687381979862.[0m
+/LUSTRE/users/pvaras/.conda/envs/chemvae3/lib/python3.6/site-packages/sklearn/gaussian_process/_gpr.py:506: ConvergenceWarning: lbfgs failed to converge (status=2):
+ABNORMAL_TERMINATION_IN_LNSRCH.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+  _check_optimize_result("lbfgs", opt_res)
+[32m[I 2024-03-05 21:53:13,922][0m Trial 92 finished with value: 0.4181746122231235 and parameters: {'kernel': 'Matern', 'length_scale': 3.258043942000832, 'nu': 1.5}. Best is trial 77 with value: 0.379687381979862.[0m
+/LUSTRE/users/pvaras/.conda/envs/chemvae3/lib/python3.6/site-packages/sklearn/gaussian_process/_gpr.py:506: ConvergenceWarning: lbfgs failed to converge (status=2):
+ABNORMAL_TERMINATION_IN_LNSRCH.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+  _check_optimize_result("lbfgs", opt_res)
+[32m[I 2024-03-05 22:06:32,894][0m Trial 93 finished with value: 0.42127452837882884 and parameters: {'kernel': 'Matern', 'length_scale': 4.288773444448336, 'nu': 1.5}. Best is trial 77 with value: 0.379687381979862.[0m
+/LUSTRE/users/pvaras/.conda/envs/chemvae3/lib/python3.6/site-packages/sklearn/gaussian_process/_gpr.py:506: ConvergenceWarning: lbfgs failed to converge (status=2):
+ABNORMAL_TERMINATION_IN_LNSRCH.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+  _check_optimize_result("lbfgs", opt_res)
+[32m[I 2024-03-05 22:13:41,421][0m Trial 94 finished with value: 0.40900732427861436 and parameters: {'kernel': 'Matern', 'length_scale': 3.589564460810454, 'nu': 1.5}. Best is trial 77 with value: 0.379687381979862.[0m
+/LUSTRE/users/pvaras/.conda/envs/chemvae3/lib/python3.6/site-packages/sklearn/gaussian_process/kernels.py:1690: RuntimeWarning: invalid value encountered in true_divide
+  / np.sqrt(D.sum(2))[:, :, np.newaxis]
+/LUSTRE/users/pvaras/.conda/envs/chemvae3/lib/python3.6/site-packages/sklearn/gaussian_process/_gpr.py:506: ConvergenceWarning: lbfgs failed to converge (status=2):
+ABNORMAL_TERMINATION_IN_LNSRCH.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+  _check_optimize_result("lbfgs", opt_res)
+[32m[I 2024-03-05 22:15:50,260][0m Trial 95 finished with value: 0.40196546090524604 and parameters: {'kernel': 'Matern', 'length_scale': 5.097583721049425, 'nu': 0.5}. Best is trial 77 with value: 0.379687381979862.[0m
+/LUSTRE/users/pvaras/.conda/envs/chemvae3/lib/python3.6/site-packages/sklearn/gaussian_process/_gpr.py:506: ConvergenceWarning: lbfgs failed to converge (status=2):
+ABNORMAL_TERMINATION_IN_LNSRCH.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+  _check_optimize_result("lbfgs", opt_res)
+[32m[I 2024-03-05 22:27:21,757][0m Trial 96 finished with value: 0.41092871554866844 and parameters: {'kernel': 'Matern', 'length_scale': 4.779922791242276, 'nu': 1.5}. Best is trial 77 with value: 0.379687381979862.[0m
+/LUSTRE/users/pvaras/.conda/envs/chemvae3/lib/python3.6/site-packages/sklearn/gaussian_process/_gpr.py:506: ConvergenceWarning: lbfgs failed to converge (status=2):
+ABNORMAL_TERMINATION_IN_LNSRCH.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+  _check_optimize_result("lbfgs", opt_res)
+[32m[I 2024-03-05 22:38:55,189][0m Trial 97 finished with value: 0.4764135149298868 and parameters: {'kernel': 'Matern', 'length_scale': 4.489034054720315, 'nu': 2.5}. Best is trial 77 with value: 0.379687381979862.[0m
+[32m[I 2024-03-05 22:42:31,883][0m Trial 98 finished with value: 0.3825149714283892 and parameters: {'kernel': 'Matern', 'length_scale': 2.8402213624983474, 'nu': 1.5}. Best is trial 77 with value: 0.379687381979862.[0m
+/LUSTRE/users/pvaras/.conda/envs/chemvae3/lib/python3.6/site-packages/sklearn/gaussian_process/_gpr.py:506: ConvergenceWarning: lbfgs failed to converge (status=2):
+ABNORMAL_TERMINATION_IN_LNSRCH.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+  _check_optimize_result("lbfgs", opt_res)
+[32m[I 2024-03-05 22:56:22,133][0m Trial 99 finished with value: 0.3819911969395951 and parameters: {'kernel': 'Matern', 'length_scale': 2.7369180031157705, 'nu': 1.5}. Best is trial 77 with value: 0.379687381979862.[0m
+Traceback (most recent call last):
+  File "train_gp.py", line 56, in <module>
+    print("Mejores hiperpar\xe1metros:", study.best_params)
+UnicodeEncodeError: 'ascii' codec can't encode character '\xe1' in position 16: ordinal not in range(128)

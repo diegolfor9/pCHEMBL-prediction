@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/738477571856283226/47dcd198f9e743adb99b881a34f09efd/artifacts
+end_time: 1708955906361
+entry_point_name: ''
+experiment_id: '738477571856283226'
+lifecycle_stage: active
+run_id: 47dcd198f9e743adb99b881a34f09efd
+run_name: gentle-ram-286
+run_uuid: 47dcd198f9e743adb99b881a34f09efd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708955905132
+status: 3
+tags: []
+user_id: pablo

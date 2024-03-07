@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/770041526180908261/018bab8d69b24ddaae94eac38f3cb295/artifacts
+deleted_time: 1708340658922
+end_time: 1708339513281
+entry_point_name: ''
+experiment_id: '770041526180908261'
+lifecycle_stage: deleted
+run_id: 018bab8d69b24ddaae94eac38f3cb295
+run_name: blushing-roo-380
+run_uuid: 018bab8d69b24ddaae94eac38f3cb295
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708339184942
+status: 4
+tags: []
+user_id: pablo

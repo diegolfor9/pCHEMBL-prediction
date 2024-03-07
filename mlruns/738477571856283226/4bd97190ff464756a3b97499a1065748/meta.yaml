@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/738477571856283226/4bd97190ff464756a3b97499a1065748/artifacts
+end_time: 1709560825579
+entry_point_name: ''
+experiment_id: '738477571856283226'
+lifecycle_stage: active
+run_id: 4bd97190ff464756a3b97499a1065748
+run_name: fun-shoat-333
+run_uuid: 4bd97190ff464756a3b97499a1065748
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709560821645
+status: 3
+tags: []
+user_id: pablo

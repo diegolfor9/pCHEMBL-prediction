@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/738477571856283226/73738812a6b64331815044503348d50c/artifacts
+end_time: 1708955843999
+entry_point_name: ''
+experiment_id: '738477571856283226'
+lifecycle_stage: active
+run_id: 73738812a6b64331815044503348d50c
+run_name: crawling-slug-100
+run_uuid: 73738812a6b64331815044503348d50c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708955841986
+status: 3
+tags: []
+user_id: pablo

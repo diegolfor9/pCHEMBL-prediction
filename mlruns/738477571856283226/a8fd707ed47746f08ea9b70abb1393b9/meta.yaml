@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/738477571856283226/a8fd707ed47746f08ea9b70abb1393b9/artifacts
+end_time: 1709560682849
+entry_point_name: ''
+experiment_id: '738477571856283226'
+lifecycle_stage: active
+run_id: a8fd707ed47746f08ea9b70abb1393b9
+run_name: enthused-dog-575
+run_uuid: a8fd707ed47746f08ea9b70abb1393b9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709560680873
+status: 3
+tags: []
+user_id: pablo

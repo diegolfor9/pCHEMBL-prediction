@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/738477571856283226/aa1869b079074405be6a8b9d033819ce/artifacts
+end_time: 1708955845733
+entry_point_name: ''
+experiment_id: '738477571856283226'
+lifecycle_stage: active
+run_id: aa1869b079074405be6a8b9d033819ce
+run_name: delicate-stag-875
+run_uuid: aa1869b079074405be6a8b9d033819ce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708955844201
+status: 3
+tags: []
+user_id: pablo

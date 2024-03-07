@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/738477571856283226/736bff92bad2422dbc8d39616db56494/artifacts
+end_time: 1708955824226
+entry_point_name: ''
+experiment_id: '738477571856283226'
+lifecycle_stage: active
+run_id: 736bff92bad2422dbc8d39616db56494
+run_name: casual-elk-104
+run_uuid: 736bff92bad2422dbc8d39616db56494
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708955817817
+status: 3
+tags: []
+user_id: pablo
