@@ -1,6 +1,0 @@
-artifact_location: mlflow-artifacts:/738477571856283226
-creation_time: 1708955671056
-experiment_id: '738477571856283226'
-last_update_time: 1708955671056
-lifecycle_stage: active
-name: Prediccion xgboost
